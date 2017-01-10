@@ -1,45 +1,45 @@
 module.exports = {
   "Nav": {
-    '/': "Startseite",
-    '/games': "Spiele",
-    '/news': "Neuigkeiten",
-    '/pay': "Auffüllen",
-    '/support': "Kundendienst"
+    "/": "Startseite",
+    "/games": "Spiele",
+    "/news": "Neuigkeiten",
+    "/pay": "Auffüllen",
+    "/support": "Kundendienst"
   },
   "Profile": {
     "Login": "Einloggen",
     "Logout": "Ausloggen",
     "Register": "Registrieren",
-    "ForgetPassword": 'Passwort vergessen',
-    "ChangePassword": 'Passwort bearbeiten'
+    "ForgetPassword": "Passwort vergessen",
+    "ChangePassword": "Passwort bearbeiten"
   },
   "ForgetPassword": {
-    "Title": 'Passwort vergessen',
-    "Next": 'Weiter',
-    "Tips": 'Solltest du keine mail erhalten haben, schau bitte im Spam Order o.?. nach oder klicker "erneut senden".',
+    "Title": "Passwort vergessen",
+    "Next": "Weiter",
+    "Tips": "Solltest du keine mail erhalten haben, schau bitte im Spam Order o.?. nach oder klicker \"erneut senden\".",
     "Succeed": {
-      "Title": 'Sicherheits Verifizierung',
-      "Msg": 'Verifizierungsmail erfolgreich gesendet'
+      "Title": "Sicherheits Verifizierung",
+      "Msg": "Verifizierungsmail erfolgreich gesendet"
     },
     "Failed": {
-      "Title": 'Sicherheits Verifizierung',
-      "Msg": 'Senden der Verifizirungsmail fehlgeschlagen'
+      "Title": "Sicherheits Verifizierung",
+      "Msg": "Senden der Verifizirungsmail fehlgeschlagen"
     }
   },
   "ChangePassword": {
     "Title": "Passwort zurücksetzen",
-    "NewPassword": 'Neues Passwort',
-    "PasswordConfirm": 'Passwort erneut eingeben',
-    "Tips": 'Das Passwort muss zwischen 6-16 Zeichen lang sein. Es kann Zahlen, Buchstaben und andere Schriftzeichen enthalten.',
-    "JumpTips": 'Das System wird automatisch in %s Sekunden springen.',
-    "Back": 'Zurück',
+    "NewPassword": "Neues Passwort",
+    "PasswordConfirm": "Passwort erneut eingeben",
+    "Tips": "Das Passwort muss zwischen 6-16 Zeichen lang sein. Es kann Zahlen, Buchstaben und andere Schriftzeichen enthalten.",
+    "JumpTips": "Das System wird automatisch in %s Sekunden springen.",
+    "Back": "Zurück",
     "Succeed": {
-      "Title": 'Passwort erfolgreich ge?ndert',
-      "Msg": 'Dein Passwort wurde ge?ndert'
+      "Title": "Passwort erfolgreich ge?ndert",
+      "Msg": "Dein Passwort wurde ge?ndert"
     },
     "Failed": {
-      "Title": 'Passwort Zurücksetzen fehlgeschlagen',
-      "Msg": 'Dein Passwort zurückzusetzen ist fehlgeschlagen.'
+      "Title": "Passwort Zurücksetzen fehlgeschlagen",
+      "Msg": "Dein Passwort zurückzusetzen ist fehlgeschlagen."
     }
   },
   "Login": {

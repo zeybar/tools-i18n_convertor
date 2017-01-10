@@ -24,17 +24,17 @@ module.exports = {
       "Gold": "Gold",
       "Diamond": "Diamonds"
     },
-    "SelectAmount": 'Select Package',
-    "SelectPayChannel": 'Select Payment Method',
+    "SelectAmount": "Select Package",
+    "SelectPayChannel": "Select Payment Method",
     "Server": "Server",
     "DefServer": "Default Server"
   },
   "PayType": [
-    'E-Wallet',
-    'Bank Transfer',
-    'Prepaid Card',
-    'Cards',
-    'Mobile Payment',
+    "E-Wallet",
+    "Bank Transfer",
+    "Prepaid Card",
+    "Cards",
+    "Mobile Payment",
     "Point Card Payment"
   ],
   "PopTips": {

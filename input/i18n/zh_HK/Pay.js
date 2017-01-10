@@ -1,4 +1,4 @@
-module.exports ={
+module.exports = {
   "Welcome": "歡迎來到炫綜!",
   "Loading": "載入中...",
   "Footer": "炫蹤網路版權所有",
@@ -24,8 +24,8 @@ module.exports ={
       "Gold": "金幣",
       "Diamond": "鉆石"
     },
-    "SelectAmount": '選擇商品',
-    "SelectPayChannel": '選擇支付方式',
+    "SelectAmount": "選擇商品",
+    "SelectPayChannel": "選擇支付方式",
     "Server": "伺服器",
     "DefServer": "默認伺服器"
   },

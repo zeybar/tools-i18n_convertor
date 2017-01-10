@@ -25,10 +25,8 @@ class parseExcels {
           _.each(parseConfig, (lang, key) => {
             let langData = {};
             _.each(sheet.data, (value, line) => {
-              if (sheet.name == 'Footer.js' && lang == 'en_US') {
-                if (line > 0) {
-                  parseColumn(langData, value[0], value[key + 1]);
-                }
+              if (line > 0) {
+                parseColumn(langData, value[0], value[key + 1]);
               }
             });
             i18n.add(sheet.name, lang, langData)
@@ -40,7 +38,19 @@ class parseExcels {
   };
 
   dump(i18n) {
-    
+    let me = this;
+    let pathConfig = me.Configs.path;
+
+    _.each(i18n, function(fileData, fileName) {
+
+      _.each(fileData, function(data, lang) {
+        let jsConfig = "module.exports = " + JSON.stringify(data, null, 2) + ";";
+        fs.writeFileSync(
+          path.join(pathConfig.i18n, lang, fileName),
+          jsConfig
+        );
+      });
+    });
   };
 }
 

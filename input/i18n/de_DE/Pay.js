@@ -24,17 +24,17 @@ module.exports = {
       "Gold": "Gold",
       "Diamond": "Diamanten"
     },
-    "SelectAmount": 'Paket auswählen',
-    "SelectPayChannel": 'Wähle Zahlungsmethode',
+    "SelectAmount": "Paket auswählen",
+    "SelectPayChannel": "Wähle Zahlungsmethode",
     "Server": "Serveur",
     "DefServer": "Serveur par défaut"
   },
   "PayType": [
-    'Elektronischer Geldbeutel Zahlung',
-    'Offline Banktransfer',
-    'Prepaid Karte Bezahlung',
-    'Karten',
-    'Mobile Bezahlung',
+    "Elektronischer Geldbeutel Zahlung",
+    "Offline Banktransfer",
+    "Prepaid Karte Bezahlung",
+    "Karten",
+    "Mobile Bezahlung",
     "Punktekartenzahlung"
   ],
   "PopTips": {
@@ -71,4 +71,3 @@ module.exports = {
     "t23": "Konto oder Passwort nicht korrekt."
   }
 };
-

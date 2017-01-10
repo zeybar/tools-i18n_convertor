@@ -1,7 +1,7 @@
 module.exports = {
   "Header": {
     "Nav": {
-      '/wappay': "Пополнить Счет"
+      "/wappay": "Пополнить Счет"
     }
   }
 };

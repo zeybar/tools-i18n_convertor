@@ -9,4 +9,3 @@ module.exports = {
   "Status": "Statut de la commande：",
   "Back": "Retour"
 };
-

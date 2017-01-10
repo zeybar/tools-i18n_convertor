@@ -1,45 +1,45 @@
 module.exports = {
   "Nav": {
-    '/': "Главная",
-    '/games': "Игры",
-    '/news': "Новости",
-    '/pay': "Пополнить Счет",
-    '/support': "Поддержка"
+    "/": "Главная",
+    "/games": "Игры",
+    "/news": "Новости",
+    "/pay": "Пополнить Счет",
+    "/support": "Поддержка"
   },
   "Profile": {
     "Login": "Вход",
     "Logout": "Выйти",
     "Register": "Регистрация",
-    "ForgetPassword": '忘记密码',
-    "ChangePassword": '修改密码'
+    "ForgetPassword": "忘记密码",
+    "ChangePassword": "修改密码"
   },
   "ForgetPassword": {
-    "Title": '忘记密码',
-    "Next": '下一步',
-    "Tips": '如果没有收到邮件，请检查垃圾邮件，或点击重新发送按钮',
+    "Title": "忘记密码",
+    "Next": "下一步",
+    "Tips": "如果没有收到邮件，请检查垃圾邮件，或点击重新发送按钮",
     "Succeed": {
-      "Title": '安全验证',
-      "Msg": '验证邮件发送成功'
+      "Title": "安全验证",
+      "Msg": "验证邮件发送成功"
     },
     "Failed": {
-      "Title": '安全验证',
-      "Msg": '验证邮件发送失败'
+      "Title": "安全验证",
+      "Msg": "验证邮件发送失败"
     }
   },
   "ChangePassword": {
     "Title": "修改密码",
-    "NewPassword": '新密码',
-    "PasswordConfirm": '重复新密码',
-    "Tips": '密码长度6-16位，可以是数字、字母等任意字符',
-    "JumpTips": '%s秒后系统自动跳转',
-    "Back": '返回',
+    "NewPassword": "新密码",
+    "PasswordConfirm": "重复新密码",
+    "Tips": "密码长度6-16位，可以是数字、字母等任意字符",
+    "JumpTips": "%s秒后系统自动跳转",
+    "Back": "返回",
     "Succeed": {
-      "Title": '密码重置成功',
-      "Msg": '您的密码已经重置成功'
+      "Title": "密码重置成功",
+      "Msg": "您的密码已经重置成功"
     },
     "Failed": {
-      "Title": '密码重置失败',
-      "Msg": '您的密码重置失败'
+      "Title": "密码重置失败",
+      "Msg": "您的密码重置失败"
     }
   },
   "Login": {

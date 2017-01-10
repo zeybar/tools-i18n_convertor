@@ -12,10 +12,10 @@ module.exports = {
     "Subject": "Produkt"
   },
   "PayTips": {
-    "Title": 'Bezahlungshinweise',
-    "Done": 'Ist die Zahlung mit der Drittpartei abgeschlossen?',
-    "BtnFail": 'Unvollständig',
-    "BtnOk": 'Abgeschlossen.'
+    "Title": "Bezahlungshinweise",
+    "Done": "Ist die Zahlung mit der Drittpartei abgeschlossen?",
+    "BtnFail": "Unvollständig",
+    "BtnOk": "Abgeschlossen."
   },
   "PopTips": {
     "Title": "Bezahlungshinweise",
@@ -46,9 +46,8 @@ module.exports = {
     "t21": "Bitte Passwort eingeben.",
     "t22": "Bite den korrekten Verifizierungscode eingeben.",
     "t23": "Konto oder Passwort nicht korrekt.",
-    "t24" : "Anfrage fehlgeschlagen, bitte schliesse die Seite",
-    "t25" : "Auffüllen dieses Spiels wird im moment nicht unterstützt",
-    "t26" : "Bestellung abgeschlossen, bitte nicht erneut senden"
+    "t24": "Anfrage fehlgeschlagen, bitte schliesse die Seite",
+    "t25": "Auffüllen dieses Spiels wird im moment nicht unterstützt",
+    "t26": "Bestellung abgeschlossen, bitte nicht erneut senden"
   }
 };
-

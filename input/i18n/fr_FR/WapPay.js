@@ -12,10 +12,10 @@ module.exports = {
     "Subject": "Produit"
   },
   "PayTips": {
-    "Title": 'Notification',
-    "Done": 'Le paiement par tiers est-il terminé ?',
-    "BtnFail": 'Non Complété',
-    "BtnOk": 'Complété'
+    "Title": "Notification",
+    "Done": "Le paiement par tiers est-il terminé ?",
+    "BtnFail": "Non Complété",
+    "BtnOk": "Complété"
   },
   "PopTips": {
     "Title": "Notification",
@@ -46,9 +46,8 @@ module.exports = {
     "t21": "S'il vous plaît entrez le mot de passe.",
     "t22": "S'il vous plaît entrez un code de vérification correct.",
     "t23": "Compte ou mot de passe incorrect.",
-    "t24" : "Echec de la demande, veuillez fermer la page",
-    "t25" : "La recharge de ce jeu est temporairement indisponible",
-    "t26" : "Commande complétée, s'il vous plaît ne pas renvoyer"
+    "t24": "Echec de la demande, veuillez fermer la page",
+    "t25": "La recharge de ce jeu est temporairement indisponible",
+    "t26": "Commande complétée, s'il vous plaît ne pas renvoyer"
   }
 };
-

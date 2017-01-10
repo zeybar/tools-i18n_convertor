@@ -25,16 +25,16 @@ module.exports = {
       "Diamond": "Diamants"
     },
     "SelectAmount": "Sélectionner l'Offre",
-    "SelectPayChannel": 'Choisir la méthode de paiement',
+    "SelectPayChannel": "Choisir la méthode de paiement",
     "Server": "Server",
     "DefServer": "Standard Server"
   },
   "PayType": [
-    'Portefeuille électronique de paiement',
-    'Transfert bancaire hors ligne',
-    'Paiement par carte pré-payée',
-    'Cartes',
-    'Paiement par téléphone mobile',
+    "Portefeuille électronique de paiement",
+    "Transfert bancaire hors ligne",
+    "Paiement par carte pré-payée",
+    "Cartes",
+    "Paiement par téléphone mobile",
     "Paiement par Carte à Points"
   ],
   "PopTips": {
@@ -71,4 +71,3 @@ module.exports = {
     "t23": "Compte ou mot de passe incorrect."
   }
 };
-
