@@ -1,0 +1,22 @@
+{
+  "input": {
+    "base": "en_US",
+    "parse": [
+      "en_US", "zh_CN", "zh_HK", "fr_FR", "de_DE", "ru_RU"
+    ],
+    "path" : {
+      "i18n": "E:/data1/www/n_demo/i18n-convertor/input/i18n",
+      "excel": "E:/data1/www/n_demo/i18n-convertor/output/i18n.xlsx"
+    }
+  },
+  "output": {
+    "base": "en_US",
+    "parse": [
+      "en_US", "zh_CN", "zh_HK", "fr_FR", "de_DE", "ru_RU"
+    ],
+    "path" : {
+      "i18n": "E:/data1/www/n_demo/i18n-convertor/input/i18n",
+      "excel": "E:/data1/www/n_demo/i18n-convertor/output/i18n.xlsx"
+    }
+  }
+}
